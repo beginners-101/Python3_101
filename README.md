@@ -1,7 +1,7 @@
 # Python3_101
 Python From Basic To Intermediate; explained with examples.
 
-Download the zip file in the repository ( https://github.com/beginners-101/Linux-Essential-For-Beginners/blob/master/Linux%20Essential%20For%20Beginners.zip ) and Unzip it.
+Download the zip file in the repository ( https://github.com/beginners-101/Python3_101/blob/master/Python3%20101.zip ) and Unzip it.
 
 you'll get bunch of file including "notebook.nbk" , you can open this in KeepNote software.
 
